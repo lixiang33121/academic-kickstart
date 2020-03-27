@@ -86,11 +86,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Nijenborgh 4", city = "Groningen", postcode = "9742 JE", country = "The Netherlands", country_code = "NL"}
+address = {street = "Nijenborgh 4", city = "Groningen", postcode = "9747 AG", country = "The Netherlands", country_code = "NL"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-#coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "53.239703", longitude = "6.538866"}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -107,7 +107,6 @@ appointment_url = ""
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/leefly1993"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:leefly1993?call"},
-  {icon = "weixin", icon_pack = "fab", name = "lixiang33121"},
   {icon = "weibo", icon_pack = "fab", name = "Follow my weibo", link = "https://www.weibo.com/p/1005051371858930/home?from=page_100505_profile&wvr=6&mod=data&is_all=1#place"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
@@ -120,7 +119,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "leefly1993"
 
 ############################
 ## Regional Settings
@@ -133,7 +132,7 @@ date_format = "Jan 2, 2006"
 time_format = "3:04 PM"
 
 # Address format (choose from the [address_formats] list below or add you own to the list).
-address_format = "en-us"
+address_format = "de"
 
 ############################
 ## Advanced
