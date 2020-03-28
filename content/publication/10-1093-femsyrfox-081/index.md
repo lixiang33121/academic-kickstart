@@ -8,10 +8,12 @@ abstract: "The efficient promoter of alcohol oxidase 1 (PAOX1) in methylotrophic
 featured: true
 publication: "*FEMS Yeast Research*"
 doi: "10.1093/femsyr/fox081"
----
-
 image:
   placement: 1
   focal_point: "Center"
+  caption: "AMPK/SNF1 pathway is likely to promote methanol metabolism."
   preview_only: false
+---
+
+
 

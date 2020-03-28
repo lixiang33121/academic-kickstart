@@ -8,5 +8,10 @@ abstract: "Optimizing D-xylose consumption in Saccharomyces cerevisiae is essent
 featured: false
 publication: "*FEMS Yeast Research*"
 doi: "10.1093/femsyr/foz083"
+image:
+  placement: 1
+  focal_point: "Center"
+  caption: "D-xylose uptake in DS71054, DS71054-evoB), DS71054-evo3 and DS71054-evo6. Uptakes (in nmol/mgDW.min) were performed with 50 mM 14C D-xylose and various concentrations of D-glucose (0, 50, 100, 200 and 500 mM)."
+  preview_only: false
 ---
 

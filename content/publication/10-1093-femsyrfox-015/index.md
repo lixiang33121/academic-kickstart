@@ -8,5 +8,10 @@ abstract: "In methylotrophic yeast Pichia pastoris (P. pastoris), the efficient 
 featured: false
 publication: "*FEMS Yeast Research*"
 doi: "10.1093/femsyr/fox015"
+image:
+  placement: 1
+  focal_point: "Center"
+  caption: "Overall structure of Mxr1p-150AA and Adr1p by SWISS-MODEL. (a) The structure of Mxr1p-150AA; (b) the structure of Adr1p"
+  preview_only: false
 ---
 
